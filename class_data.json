@@ -1,0 +1,2165 @@
+{
+  "school": "14_332",
+  "subjects": [
+    {
+      "name": "PRINCIPLES OF ELECTRICAL ENGINEERING I",
+      "sectionData": [
+        {
+          "index": "10261",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "PH-115"
+            },
+            {
+              "day": "Thursday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "PH-115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRINCIPLES OF ELECTRICAL ENGINEERING II",
+      "sectionData": [
+        {
+          "index": "10262",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRINCIPLES OF ELECTRICAL ENGINEERING I LAB",
+      "sectionData": [
+        {
+          "index": "10263",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRINCIPLES OF ELECTRICAL ENGINEERING II LAB",
+      "sectionData": [
+        {
+          "index": "10264",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        },
+        {
+          "index": "10265",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        },
+        {
+          "index": "10266",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-6:50PM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        },
+        {
+          "index": "10267",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        },
+        {
+          "index": "10268",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        },
+        {
+          "index": "10269",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "EE-205"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PROBABILITY & RANDOM PROCESSES",
+      "sectionData": [
+        {
+          "index": "10270",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10271",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10272",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10273",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10274",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10275",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Tuesday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10276",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Friday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "SEC-211"
+            }
+          ]
+        },
+        {
+          "index": "10277",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-111"
+            },
+            {
+              "day": "Wednesday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-220"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL LOGIC DESIGN",
+      "sectionData": [
+        {
+          "index": "10278",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "COR-538"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "COR-538"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL LOGIC DESIGN LAB",
+      "sectionData": [
+        {
+          "index": "10279",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "EE-207"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PROGRAMMING METHODOLOGY I",
+      "sectionData": [
+        {
+          "index": "10280",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-209"
+            }
+          ]
+        },
+        {
+          "index": "10281",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "SEC-208"
+            }
+          ]
+        },
+        {
+          "index": "10282",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "SEC-202"
+            }
+          ]
+        },
+        {
+          "index": "10283",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        },
+        {
+          "index": "10284",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Tuesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        },
+        {
+          "index": "10285",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Thursday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Tuesday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "SEC-216"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WIRELESS REVOLUTION",
+      "sectionData": [
+        {
+          "index": "10286",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "RWH-206"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "RWH-206"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DISCRETE MATHEMATICS ECE",
+      "sectionData": [
+        {
+          "index": "10287",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PRINCIPLES OF COMMUNICATION SYSTEMS",
+      "sectionData": [
+        {
+          "index": "10288",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-251"
+            },
+            {
+              "day": "Friday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-251"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "COMPUTER ARCHITECTURE & ASSEMBLY LANGUAGE",
+      "sectionData": [
+        {
+          "index": "10289",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Friday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "COMPUTER ARCHITECTURE LAB",
+      "sectionData": [
+        {
+          "index": "10290",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        },
+        {
+          "index": "10291",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LINEAR SYSTEMS & SIGNALS",
+      "sectionData": [
+        {
+          "index": "10292",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-252"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-252"
+            },
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "EE-203"
+            }
+          ]
+        },
+        {
+          "index": "10293",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-252"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-252"
+            },
+            {
+              "day": "Tuesday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Busch",
+              "room_number": "EE-203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL SIGNAL PROCESSING",
+      "sectionData": [
+        {
+          "index": "10294",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Friday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "SEC-212"
+            }
+          ]
+        },
+        {
+          "index": "10295",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Friday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Tuesday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "SEC-202"
+            }
+          ]
+        },
+        {
+          "index": "10296",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Friday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "SEC-212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL SIGNAL PROCESSING LAB",
+      "sectionData": [
+        {
+          "index": "10297",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "5:40PM-8:40PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        },
+        {
+          "index": "10298",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        },
+        {
+          "index": "10299",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ELECTRONIC DEVICES",
+      "sectionData": [
+        {
+          "index": "10300",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-210"
+            },
+            {
+              "day": "Thursday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-210"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ELECTRONIC DEVICES LAB",
+      "sectionData": [
+        {
+          "index": "10301",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "5:40PM-8:40PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL ELECTRONICS",
+      "sectionData": [
+        {
+          "index": "10302",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "EN-B120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DIGITAL ELECTRONICS LAB",
+      "sectionData": [
+        {
+          "index": "10303",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "5:40PM-8:40PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        },
+        {
+          "index": "10304",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-6:50PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        },
+        {
+          "index": "10305",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        },
+        {
+          "index": "10307",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        },
+        {
+          "index": "10308",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "12:10PM-3:10PM",
+              "campus": "Busch",
+              "room_number": "EE-107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VIRTUAL REALITY",
+      "sectionData": [
+        {
+          "index": "10310",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "BME-102"
+            },
+            {
+              "day": "Thursday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "BME-102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VIRTUAL REALITY LAB",
+      "sectionData": [
+        {
+          "index": "10312",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "EE-242"
+            }
+          ]
+        },
+        {
+          "index": "10313",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "EE-242"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ELECTROMAGNETIC FIELDS",
+      "sectionData": [
+        {
+          "index": "10314",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "CCB-1203"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "CCB-1203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PROFESSIONALISM/ETHICS",
+      "sectionData": [
+        {
+          "index": "10315",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "8:30AM-9:50AM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ELECTRICAL ENERGY CONVERSION",
+      "sectionData": [
+        {
+          "index": "10316",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "EE-203"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Busch",
+              "room_number": "EE-203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "COMPUTER & COMMUNICATION NETWORKS",
+      "sectionData": [
+        {
+          "index": "10317",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "2:00PM-5:00PM",
+              "campus": "Busch",
+              "room_number": "COR-101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INTRODUCTION TO COMPUTER SYSTEMS",
+      "sectionData": [
+        {
+          "index": "10319",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOPICS IN ELECTRICAL & COMPUTER ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10321",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "8:30AM-11:30AM",
+              "campus": "Busch",
+              "room_number": "ARC-206"
+            }
+          ]
+        },
+        {
+          "index": "10323",
+          "classes": [
+            {
+              "day": "Friday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "BME-102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOPICS IN ELECTRICAL & COMPUTER ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10325",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-208"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CAPSTONE DESIGN ECE",
+      "sectionData": [
+        {
+          "index": "10327",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10328",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10329",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10330",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10331",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10332",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10333",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10334",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10335",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10336",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10337",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10338",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10339",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10340",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10341",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10342",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10343",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10344",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10345",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10346",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10347",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10348",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10349",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10350",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10351",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10352",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10353",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10354",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10355",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10356",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10357",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10358",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10359",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10360",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10361",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10362",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10363",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "10364",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INTRODUCTION TO CAPSTONE DESIGN IN ECE",
+      "sectionData": [
+        {
+          "index": "10365",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "12:10PM-1:30PM",
+              "campus": "Online",
+              "room_number": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SOFTWARE ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10366",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Busch",
+              "room_number": "HLL-114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NETWORK CENTRIC PROGRAMMING",
+      "sectionData": [
+        {
+          "index": "10367",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-1:20PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RF INTEGRATED CIRCUIT DESIGN",
+      "sectionData": [
+        {
+          "index": "10368",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "5:40PM-8:40PM",
+              "campus": "Busch",
+              "room_number": "EE-207"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MICROELECTRONIC PROCESSING",
+      "sectionData": [
+        {
+          "index": "10370",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Livingston",
+              "room_number": "BE-251"
+            },
+            {
+              "day": "Thursday",
+              "time": "3:50PM-5:10PM",
+              "campus": "Livingston",
+              "room_number": "BE-251"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SPECIAL PROBLEMS/INDEPENDENT STUDY",
+      "sectionData": [
+        {
+          "index": "10372",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOPICS IN ELECTRICAL & COMPUTER ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10373",
+          "classes": [
+            {
+              "day": "Thursday",
+              "time": "5:40PM-7:00PM",
+              "campus": "Busch",
+              "room_number": "COR-538"
+            },
+            {
+              "day": "Thursday",
+              "time": "7:30PM-8:50PM",
+              "campus": "Busch",
+              "room_number": "EE-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOPICS IN ELECTRICAL & COMPUTER ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10375",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-203"
+            },
+            {
+              "day": "Thursday",
+              "time": "2:00PM-3:20PM",
+              "campus": "Busch",
+              "room_number": "SEC-203"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INTERNSHIP IN ELECTRICAL AND COMPUTER   ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10377",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CO-OP INTERNSHIP IN ELECTRICAL AND COMPUTER ENGINEERING",
+      "sectionData": [
+        {
+          "index": "10378",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}{
+  "school": "01_840",
+  "subjects": [
+    {
+      "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+      "sectionData": [
+        {
+          "index": "07017",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-219"
+            },
+            {
+              "day": "Friday",
+              "time": "10:20AM-11:40AM",
+              "campus": "Livingston",
+              "room_number": "BE-219"
+            }
+          ]
+        },
+        {
+          "index": "07018",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "5:40PM-8:40PM",
+              "campus": "Livingston",
+              "room_number": "LSH-B105"
+            }
+          ]
+        },
+        {
+          "index": "07019",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "07020",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+      "sectionData": [
+        {
+          "index": "07021",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "AB-1170"
+            },
+            {
+              "day": "Thursday",
+              "time": "4:05PM-5:00PM",
+              "campus": "College Avenue",
+              "room_number": "SC-204"
+            },
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "07022",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "AB-1170"
+            },
+            {
+              "day": "Tuesday",
+              "time": "2:15PM-3:10PM",
+              "campus": "College Avenue",
+              "room_number": "SC-203"
+            },
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "07023",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "AB-1170"
+            },
+            {
+              "day": "Wednesday",
+              "time": "12:25PM-1:20PM",
+              "campus": "College Avenue",
+              "room_number": "MU-111"
+            },
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "07024",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "AB-1170"
+            },
+            {
+              "day": "Monday",
+              "time": "12:25PM-1:20PM",
+              "campus": "College Avenue",
+              "room_number": "SC-106"
+            },
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "THE HERO'S QUEST: RELIGION, MYTHOLOGY AND HARRY POTTER",
+      "sectionData": [
+        {
+          "index": "07025",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "INTRODUCTION TO THE BIBLE II:PROPHETS & POETRY",
+      "sectionData": [
+        {
+          "index": "05945",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "College Avenue",
+              "room_number": "MH-115"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "College Avenue",
+              "room_number": "MH-115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RELIGION IN ASIA",
+      "sectionData": [
+        {
+          "index": "07026",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "FH-B6"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "FH-B6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RELIGIONS OF THE WESTERN WORLD",
+      "sectionData": [
+        {
+          "index": "07027",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "5:40PM-7:00PM",
+              "campus": "College Avenue",
+              "room_number": "MU-114"
+            },
+            {
+              "day": "Wednesday",
+              "time": "5:40PM-7:00PM",
+              "campus": "College Avenue",
+              "room_number": "MU-114"
+            }
+          ]
+        },
+        {
+          "index": "07028",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "SC-115"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "SC-115"
+            }
+          ]
+        },
+        {
+          "index": "07029",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+      "sectionData": [
+        {
+          "index": "07031",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "12:10PM-1:30PM",
+              "campus": "College Avenue",
+              "room_number": "HH-A4"
+            },
+            {
+              "day": "Thursday",
+              "time": "12:10PM-1:30PM",
+              "campus": "College Avenue",
+              "room_number": "HH-A4"
+            }
+          ]
+        },
+        {
+          "index": "07032",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "10:20AM-11:40AM",
+              "campus": "College Avenue",
+              "room_number": "HH-A3"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:20AM-11:40AM",
+              "campus": "College Avenue",
+              "room_number": "HH-A3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HINDUISM",
+      "sectionData": [
+        {
+          "index": "07033",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "College Avenue",
+              "room_number": "SC-120"
+            },
+            {
+              "day": "Thursday",
+              "time": "3:50PM-5:10PM",
+              "campus": "College Avenue",
+              "room_number": "SC-120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISLAM",
+      "sectionData": [
+        {
+          "index": "06383",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RELIGION & MUSIC",
+      "sectionData": [
+        {
+          "index": "07034",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "3:50PM-5:10PM",
+              "campus": "C/D",
+              "room_number": "HCK-113"
+            },
+            {
+              "day": "Wednesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "C/D",
+              "room_number": "HCK-113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RELIGION AND REPRODUCTION: JEWISH       AND CHRISTIAN E..",
+      "sectionData": [
+        {
+          "index": "05948",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-5:10PM",
+              "campus": "College Avenue",
+              "room_number": "HH-A7"
+            },
+            {
+              "day": "Thursday",
+              "time": "3:50PM-5:10PM",
+              "campus": "College Avenue",
+              "room_number": "HH-A7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TPC STDY OF RELIGION",
+      "sectionData": [
+        {
+          "index": "17808",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "5:40PM-7:00PM",
+              "campus": "College Avenue",
+              "room_number": "ED-025B"
+            },
+            {
+              "day": "Wednesday",
+              "time": "5:40PM-7:00PM",
+              "campus": "College Avenue",
+              "room_number": "ED-025B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APOCALYPSE NOW?  RELIGIOUS MOVEMENTS    AND THE END OF ..",
+      "sectionData": [
+        {
+          "index": "07035",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        },
+        {
+          "index": "07036",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHRISTIANS, \"THE OTHER,\" AND VIOLENCE",
+      "sectionData": [
+        {
+          "index": "07037",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "3:50PM-6:50PM",
+              "campus": "College Avenue",
+              "room_number": "HH-B3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CARIBBEAN RELIGION",
+      "sectionData": [
+        {
+          "index": "06034",
+          "classes": [
+            {
+              "day": "Monday",
+              "time": "2:00PM-3:20PM",
+              "campus": "C/D",
+              "room_number": "HCK-119"
+            },
+            {
+              "day": "Wednesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "C/D",
+              "room_number": "HCK-119"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISLAMIC MYSTICAL LITERATURE",
+      "sectionData": [
+        {
+          "index": "07038",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TPC STDY OF RELIGION",
+      "sectionData": [
+        {
+          "index": "00028",
+          "classes": [
+            {
+              "day": "Tuesday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "FH-B4"
+            },
+            {
+              "day": "Thursday",
+              "time": "2:00PM-3:20PM",
+              "campus": "College Avenue",
+              "room_number": "FH-B4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RESEARCH IN RELIGION",
+      "sectionData": [
+        {
+          "index": "07039",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SEM STDY OF RELIGION",
+      "sectionData": [
+        {
+          "index": "07040",
+          "classes": [
+            {
+              "day": "Wednesday",
+              "time": "10:20AM-1:20PM",
+              "campus": "College Avenue",
+              "room_number": "GH-103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RESEARCH IN RELIGION",
+      "sectionData": [
+        {
+          "index": "07041",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HONORS IN RELIGION",
+      "sectionData": [
+        {
+          "index": "07042",
+          "classes": [
+            {
+              "campus": "N/A",
+              "note": "Hours by arrangement"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

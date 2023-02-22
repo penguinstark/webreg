@@ -1,0 +1,648 @@
+[
+  {
+    "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+    "sections": [
+      {
+        "index": "07017",
+        "classes": [
+          {
+            "index": "07017",
+            "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+            "day": "Tuesday",
+            "time": "10:20AM-11:40AM",
+            "campus": "Livingston",
+            "room_number": "BE-219"
+          },
+          {
+            "index": "07017",
+            "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+            "day": "Friday",
+            "time": "10:20AM-11:40AM",
+            "campus": "Livingston",
+            "room_number": "BE-219"
+          }
+        ]
+      },
+      {
+        "index": "07018",
+        "classes": [
+          {
+            "index": "07018",
+            "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+            "day": "Wednesday",
+            "time": "5:40PM-8:40PM",
+            "campus": "Livingston",
+            "room_number": "LSH-B105"
+          }
+        ]
+      },
+      {
+        "index": "07019",
+        "classes": [
+          {
+            "index": "07019",
+            "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      },
+      {
+        "index": "07020",
+        "classes": [
+          {
+            "index": "07020",
+            "name": "GODS, MYTHS, AND RELIGIONS IN A SECULAR AGE",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+    "sections": [
+      {
+        "index": "07021",
+        "classes": [
+          {
+            "index": "07021",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "AB-1170"
+          },
+          {
+            "index": "07021",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Thursday",
+            "time": "4:05PM-5:00PM",
+            "campus": "College Avenue",
+            "room_number": "SC-204"
+          },
+          {
+            "index": "07021",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      },
+      {
+        "index": "07022",
+        "classes": [
+          {
+            "index": "07022",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "AB-1170"
+          },
+          {
+            "index": "07022",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Tuesday",
+            "time": "2:15PM-3:10PM",
+            "campus": "College Avenue",
+            "room_number": "SC-203"
+          },
+          {
+            "index": "07022",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      },
+      {
+        "index": "07023",
+        "classes": [
+          {
+            "index": "07023",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "AB-1170"
+          },
+          {
+            "index": "07023",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Wednesday",
+            "time": "12:25PM-1:20PM",
+            "campus": "College Avenue",
+            "room_number": "MU-111"
+          },
+          {
+            "index": "07023",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      },
+      {
+        "index": "07024",
+        "classes": [
+          {
+            "index": "07024",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "AB-1170"
+          },
+          {
+            "index": "07024",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "day": "Monday",
+            "time": "12:25PM-1:20PM",
+            "campus": "College Avenue",
+            "room_number": "SC-106"
+          },
+          {
+            "index": "07024",
+            "name": "RELIGIONS NOW: 21ST CENTURY CONTROVERSIES",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "THE HERO'S QUEST: RELIGION, MYTHOLOGY AND HARRY POTTER",
+    "sections": [
+      {
+        "index": "07025",
+        "classes": [
+          {
+            "index": "07025",
+            "name": "THE HERO'S QUEST: RELIGION, MYTHOLOGY AND HARRY POTTER",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INTRODUCTION TO THE BIBLE II:PROPHETS & POETRY",
+    "sections": [
+      {
+        "index": "05945",
+        "classes": [
+          {
+            "index": "05945",
+            "name": "INTRODUCTION TO THE BIBLE II:PROPHETS & POETRY",
+            "day": "Monday",
+            "time": "10:20AM-11:40AM",
+            "campus": "College Avenue",
+            "room_number": "MH-115"
+          },
+          {
+            "index": "05945",
+            "name": "INTRODUCTION TO THE BIBLE II:PROPHETS & POETRY",
+            "day": "Thursday",
+            "time": "10:20AM-11:40AM",
+            "campus": "College Avenue",
+            "room_number": "MH-115"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RELIGION IN ASIA",
+    "sections": [
+      {
+        "index": "07026",
+        "classes": [
+          {
+            "index": "07026",
+            "name": "RELIGION IN ASIA",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "FH-B6"
+          },
+          {
+            "index": "07026",
+            "name": "RELIGION IN ASIA",
+            "day": "Wednesday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "FH-B6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RELIGIONS OF THE WESTERN WORLD",
+    "sections": [
+      {
+        "index": "07027",
+        "classes": [
+          {
+            "index": "07027",
+            "name": "RELIGIONS OF THE WESTERN WORLD",
+            "day": "Monday",
+            "time": "5:40PM-7:00PM",
+            "campus": "College Avenue",
+            "room_number": "MU-114"
+          },
+          {
+            "index": "07027",
+            "name": "RELIGIONS OF THE WESTERN WORLD",
+            "day": "Wednesday",
+            "time": "5:40PM-7:00PM",
+            "campus": "College Avenue",
+            "room_number": "MU-114"
+          }
+        ]
+      },
+      {
+        "index": "07028",
+        "classes": [
+          {
+            "index": "07028",
+            "name": "RELIGIONS OF THE WESTERN WORLD",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "SC-115"
+          },
+          {
+            "index": "07028",
+            "name": "RELIGIONS OF THE WESTERN WORLD",
+            "day": "Wednesday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "SC-115"
+          }
+        ]
+      },
+      {
+        "index": "07029",
+        "classes": [
+          {
+            "index": "07029",
+            "name": "RELIGIONS OF THE WESTERN WORLD",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+    "sections": [
+      {
+        "index": "07031",
+        "classes": [
+          {
+            "index": "07031",
+            "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+            "day": "Monday",
+            "time": "12:10PM-1:30PM",
+            "campus": "College Avenue",
+            "room_number": "HH-A4"
+          },
+          {
+            "index": "07031",
+            "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+            "day": "Thursday",
+            "time": "12:10PM-1:30PM",
+            "campus": "College Avenue",
+            "room_number": "HH-A4"
+          }
+        ]
+      },
+      {
+        "index": "07032",
+        "classes": [
+          {
+            "index": "07032",
+            "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+            "day": "Monday",
+            "time": "10:20AM-11:40AM",
+            "campus": "College Avenue",
+            "room_number": "HH-A3"
+          },
+          {
+            "index": "07032",
+            "name": "THE QUESTION OF GOD IN MODERN CULTURE",
+            "day": "Thursday",
+            "time": "10:20AM-11:40AM",
+            "campus": "College Avenue",
+            "room_number": "HH-A3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HINDUISM",
+    "sections": [
+      {
+        "index": "07033",
+        "classes": [
+          {
+            "index": "07033",
+            "name": "HINDUISM",
+            "day": "Tuesday",
+            "time": "3:50PM-5:10PM",
+            "campus": "College Avenue",
+            "room_number": "SC-120"
+          },
+          {
+            "index": "07033",
+            "name": "HINDUISM",
+            "day": "Thursday",
+            "time": "3:50PM-5:10PM",
+            "campus": "College Avenue",
+            "room_number": "SC-120"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISLAM",
+    "sections": [
+      {
+        "index": "06383",
+        "classes": [
+          {
+            "index": "06383",
+            "name": "ISLAM",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RELIGION & MUSIC",
+    "sections": [
+      {
+        "index": "07034",
+        "classes": [
+          {
+            "index": "07034",
+            "name": "RELIGION & MUSIC",
+            "day": "Monday",
+            "time": "3:50PM-5:10PM",
+            "campus": "C/D",
+            "room_number": "HCK-113"
+          },
+          {
+            "index": "07034",
+            "name": "RELIGION & MUSIC",
+            "day": "Wednesday",
+            "time": "3:50PM-5:10PM",
+            "campus": "C/D",
+            "room_number": "HCK-113"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RELIGION AND REPRODUCTION: JEWISH       AND CHRISTIAN E..",
+    "sections": [
+      {
+        "index": "05948",
+        "classes": [
+          {
+            "index": "05948",
+            "name": "RELIGION AND REPRODUCTION: JEWISH       AND CHRISTIAN E..",
+            "day": "Tuesday",
+            "time": "3:50PM-5:10PM",
+            "campus": "College Avenue",
+            "room_number": "HH-A7"
+          },
+          {
+            "index": "05948",
+            "name": "RELIGION AND REPRODUCTION: JEWISH       AND CHRISTIAN E..",
+            "day": "Thursday",
+            "time": "3:50PM-5:10PM",
+            "campus": "College Avenue",
+            "room_number": "HH-A7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TPC STDY OF RELIGION",
+    "sections": [
+      {
+        "index": "17808",
+        "classes": [
+          {
+            "index": "17808",
+            "name": "TPC STDY OF RELIGION",
+            "day": "Monday",
+            "time": "5:40PM-7:00PM",
+            "campus": "College Avenue",
+            "room_number": "ED-025B"
+          },
+          {
+            "index": "17808",
+            "name": "TPC STDY OF RELIGION",
+            "day": "Wednesday",
+            "time": "5:40PM-7:00PM",
+            "campus": "College Avenue",
+            "room_number": "ED-025B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "APOCALYPSE NOW?  RELIGIOUS MOVEMENTS    AND THE END OF ..",
+    "sections": [
+      {
+        "index": "07035",
+        "classes": [
+          {
+            "index": "07035",
+            "name": "APOCALYPSE NOW?  RELIGIOUS MOVEMENTS    AND THE END OF ..",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      },
+      {
+        "index": "07036",
+        "classes": [
+          {
+            "index": "07036",
+            "name": "APOCALYPSE NOW?  RELIGIOUS MOVEMENTS    AND THE END OF ..",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CHRISTIANS, \"THE OTHER,\" AND VIOLENCE",
+    "sections": [
+      {
+        "index": "07037",
+        "classes": [
+          {
+            "index": "07037",
+            "name": "CHRISTIANS, \"THE OTHER,\" AND VIOLENCE",
+            "day": "Tuesday",
+            "time": "3:50PM-6:50PM",
+            "campus": "College Avenue",
+            "room_number": "HH-B3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CARIBBEAN RELIGION",
+    "sections": [
+      {
+        "index": "06034",
+        "classes": [
+          {
+            "index": "06034",
+            "name": "CARIBBEAN RELIGION",
+            "day": "Monday",
+            "time": "2:00PM-3:20PM",
+            "campus": "C/D",
+            "room_number": "HCK-119"
+          },
+          {
+            "index": "06034",
+            "name": "CARIBBEAN RELIGION",
+            "day": "Wednesday",
+            "time": "2:00PM-3:20PM",
+            "campus": "C/D",
+            "room_number": "HCK-119"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISLAMIC MYSTICAL LITERATURE",
+    "sections": [
+      {
+        "index": "07038",
+        "classes": [
+          {
+            "index": "07038",
+            "name": "ISLAMIC MYSTICAL LITERATURE",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TPC STDY OF RELIGION",
+    "sections": [
+      {
+        "index": "00028",
+        "classes": [
+          {
+            "index": "00028",
+            "name": "TPC STDY OF RELIGION",
+            "day": "Tuesday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "FH-B4"
+          },
+          {
+            "index": "00028",
+            "name": "TPC STDY OF RELIGION",
+            "day": "Thursday",
+            "time": "2:00PM-3:20PM",
+            "campus": "College Avenue",
+            "room_number": "FH-B4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RESEARCH IN RELIGION",
+    "sections": [
+      {
+        "index": "07039",
+        "classes": [
+          {
+            "index": "07039",
+            "name": "RESEARCH IN RELIGION",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SEM STDY OF RELIGION",
+    "sections": [
+      {
+        "index": "07040",
+        "classes": [
+          {
+            "index": "07040",
+            "name": "SEM STDY OF RELIGION",
+            "day": "Wednesday",
+            "time": "10:20AM-1:20PM",
+            "campus": "College Avenue",
+            "room_number": "GH-103"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "RESEARCH IN RELIGION",
+    "sections": [
+      {
+        "index": "07041",
+        "classes": [
+          {
+            "index": "07041",
+            "name": "RESEARCH IN RELIGION",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HONORS IN RELIGION",
+    "sections": [
+      {
+        "index": "07042",
+        "classes": [
+          {
+            "index": "07042",
+            "name": "HONORS IN RELIGION",
+            "campus": "N/A",
+            "note": "Hours by arrangement"
+          }
+        ]
+      }
+    ]
+  }
+]
