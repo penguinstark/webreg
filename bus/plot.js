@@ -8,7 +8,7 @@ var querystring = {
     "callback": "call"
 };
 var headers = {
-    "X-RapidAPI-Key": "8ef2058ea0msha740dd60a3b95abp173661jsn6c955e38b6ff",
+    "X-RapidAPI-Key": "[key]",
     "X-RapidAPI-Host": "transloc-api-1-2.p.rapidapi.com"
 };
 
