@@ -10,8 +10,12 @@ querystring = {
     "geo_area": "40.504728,-74.448948|6000",
     "callback": "call"
 }
+with open('pass.txt') as f:
+    key = f.readline()
+    print(key)
+
 headers = {
-    "X-RapidAPI-Key": "[key]",
+    "X-RapidAPI-Key": key,
     "X-RapidAPI-Host": "transloc-api-1-2.p.rapidapi.com"
 }
 
@@ -20,7 +24,18 @@ scat = ax.scatter([], [], c='red')
 route_colors = {}
 img = mpimg.imread('map.png')
 ax.imshow(img, extent=[-74.48, -74.41, 40.47, 40.54])
-scats = {}
+
+bus_scatters = {}
+bus_positions = {}
+bus_headings = {}
+
+def init():
+    ax.set_xlim(-74.48,-74.41)
+    ax.set_ylim(40.47,40.54)
+    # ax.set_xlim(-75,-74)
+    # ax.set_ylim(40,41)
+    bus_scatters.clear()
+    return [scat] + list(bus_scatters.values())
 
 with open('routes.csv', newline='') as csvfile:
     reader = csv.reader(csvfile)
@@ -31,62 +46,36 @@ def route(id):
     for row in rows:
         if row[0] == id: return row[2]
 
-previous = {}
-
-def init():
-    ax.set_xlim(-74.48,-74.41)
-    ax.set_ylim(40.47,40.54)
-    global trails
-    trails = {}
-    return scats.values(), previous
-
 def update(frame):
-    global previous
     response = requests.get(url, headers=headers, params=querystring)
     if response.status_code == 200:
         data = json.loads(response.text)
         lats, lngs, colors = [], [], []
         for key in data['data']:
             for vehicle in data['data'][key]:
+                bus_id = vehicle['vehicle_id']
                 route_id = vehicle['route_id']
                 lat = vehicle['location']['lat']
                 lng = vehicle['location']['lng']
+                heading = vehicle['heading']
+                lats.append(lat)
+                lngs.append(lng)
                 if route_id not in route_colors:
                     route_colors[route_id] = np.random.rand(3,)
                 colors.append(route_colors[route_id])
-                
-                if vehicle['vehicle_id'] in previous:
-                    # shrink the size of the previous point by 2
-                    ax.collections[previous[vehicle['vehicle_id']]].set_sizes([s/2 for s in ax.collections[previous[vehicle['vehicle_id']]].get_sizes()])
-                    
-                    # remove the previous point if the maximum number of points has been reached
-                    if len(trails[vehicle['vehicle_id']]) == 5:
-                        ax.collections.pop(previous[vehicle['vehicle_id']])
-                        trails[vehicle['vehicle_id']].pop(0)
-                        previous[vehicle['vehicle_id']] -= 1
-                        
-                # add the current point
-                sc = ax.scatter(lng, lat, c=colors[-1], s=25)
-                trails.setdefault(vehicle['vehicle_id'], []).append(sc)
-                previous[vehicle['vehicle_id']] = len(trails[vehicle['vehicle_id']])-1
-                    
-        # update the location of the previous points
-        for t in trails.values():
-            for i, sc in enumerate(t[:-1]):
-                t[i] = t[i+1]
-                ax.collections[sc].set_offsets(np.vstack((ax.collections[sc].get_offsets(), [np.nan, np.nan])))
-        # update the location of the last point
-        lngs, lats = [], []
-        for t in trails.values():
-            if t:
-                lng, lat = t[-1].get_offsets().flatten()
-                lngs.append(lng)
-                lats.append(lat)
+                if bus_id not in bus_positions:
+                    bus_positions[bus_id] = [(lng, lat)]
+                    bus_headings[bus_id] = [heading]
+                else:
+                    bus_positions[bus_id].append((lng, lat))
+                    bus_headings[bus_id].append(heading)
         scat.set_offsets(np.c_[lngs, lats])
         scat.set_color(colors)
     return scat,
 
-ani = FuncAnimation(fig, update, frames=None, init_func=init, blit=True, interval=1000, cache_frame_data=False)
-ani.save('animation.gif', writer='pillow')
+ani = FuncAnimation(fig, update, frames=None, init_func=init, blit=True, interval=2000, cache_frame_data=False)
+
+# fig = plt.figure(figsize=(10, 8))
+# img = mpimg.imread('map.png')
+# plt.imshow(img, extent=[-74.48, -74.41, 40.47, 40.54])
 plt.show()
-# 

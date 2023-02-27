@@ -10,8 +10,12 @@ querystring = {
     "geo_area": "40.504728,-74.448948|6000",
     "callback": "call"
 }
+with open('pass.txt') as f:
+    key = f.readline()
+    print(key)
+
 headers = {
-    "X-RapidAPI-Key": "[key]",
+    "X-RapidAPI-Key": key,
     "X-RapidAPI-Host": "transloc-api-1-2.p.rapidapi.com"
 }
 
@@ -24,6 +28,8 @@ ax.imshow(img, extent=[-74.48, -74.41, 40.47, 40.54])
 def init():
     ax.set_xlim(-74.48,-74.41)
     ax.set_ylim(40.47,40.54)
+    # ax.set_xlim(-75,-74)
+    # ax.set_ylim(40,41)
     return scat,
 
 with open('routes.csv', newline='') as csvfile:
